@@ -7,6 +7,7 @@ var proxy = "__PROXY__";
 
 var userrules = [];
 var rules = [
+  "||tieba.baidu.com",
   "||raw.githubusercontent.com",
   "||github.com",
   "|http://85.17.73.31/",
